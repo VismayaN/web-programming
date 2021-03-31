@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>mca</title>
+<body bgcolor="pink">
+<h1>COLLEGE OF ENGINEERING,VADAKARA</H1>
+<P>
+College of Engineering Vadakara (CEV) formerly known as Co-operative Institute of Technology, 
+Vadakara, is the first engineering college under Co-operative Academy of Professional Education 
+(CAPE) established by Govt. of Kerala in the year 1999.
+This was started with a broad vision of assisting the Government to impart quality education to the 
+meritorious and economically backward students in the State without much financial burden
+</P>
+<i>COURSES</i>
+<dl>
+<dt>MCA</dt>
+<dd>MCA (Master of Computer Applications) is a professional master's degree in computer science.
+It focuses on providing a theoretical as well as practical training to students in the related field. 
+Computer Applications is a use of computer to solve a problem or to accomplish a particular 
+job.</dd>
+<dt>BTECH</dt>
+<dd>Bachelor of Technology (B. Tech) is a professional undergraduate engineering degree 
+programme awarded to candidates after completion of four years of study in the field.
+This undergraduate programme is your gateway to a career in engineering.
+</dd>
+</dl>
+</head></body>
+</html>

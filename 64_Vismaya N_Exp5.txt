@@ -1,0 +1,135 @@
+<html>
+<head><title>css</title>
+<h1 style="color:red;text-align:center;font-size:30px">
+<u><b>COLLEGE OF ENGINEERING VADAKARA</u><b></h1>
+<body style="color:blue;text-align:center;background-color:lightblue">
+College of Engineering Vadakara (CEV) formerly known as Co-operative Institute of
+Technology, Vadakara, is the first engineering
+college under Co-operative Academy of Professional Education (CAPE) established
+by Govt.
+of Kerala in the year 1999. This was started with a broad vision of assisting the
+Government to impart quality
+education to the meritorious and economically backward students in the State
+without much financial burden.
+CEV is committed to the Government of India and Government of Kerala policy of
+uplifting the weaker sections of the society by imparting
+professional education to the students.
+Accordingly, CEV is located in the socially and educationally backward Malabar
+region of Kerala state. 
+ CEV is located at Kurunthodi in Maniyur village 13 km away from Vadakara town
+along the Palayad – Maniyur road. CEV is situated on the
+hilltop of “Kakoramala”,
+ with lush green and beautiful surroundings stretching over an area of about 27
+acres.
+The nearest railway station,Vadakara is 14 Km away from the campus.
+<h4 style="color:green;text-align:center">MASTER OF COMPUTER
+APPLICATION</h4>
+<p style="text-align:center;color:red">The Department of Master of Computer
+Applications was established in 2010.
+The department trains future educators, researchers and software professionals
+through a curriculum designed by CUSAT.
+The department molds young outstanding students who are academically strong
+in both theory and practices. It organizes supplementary
+programs, which include Technical seminars & Mock Interviews
+to prepare the student for a career in the computing field or for graduate study.
+Special orientation is provided to the staff
+ periodically for updating their strength in latest
+technological changes.
+</head>
+<body>
+</html>
+
+#internal.html
+internal.html
+<html>
+<head>
+<title> internal
+</title>
+<style>
+h1{
+ color:green;
+ font-size:large;
+ text-align:center;
+ }
+p{
+ color:brown; 
+ }
+</style>
+</head>
+<body bgcolor="pink">
+<h1><u>COLLEGE OF ENGINEERING VADAKARA</u></h1>
+<P>College of Engineering Vadakara (CEV) formerly known as Co-operative
+Institute of Technology, Vadakara, is the first engineering college
+ under Co-operative Academy of Professional Education (CAPE) established by
+Govt. of Kerala in the year 1999. This was started with a broad
+ vision of assisting the Government to impart quality education to the meritorious
+and economically backward students in the State without much financial burden.
+CEV is committed to the Government of India and Government of Kerala policy of
+uplifting the weaker sections of the society by imparting
+professional education to the students. Accordingly, CEV is located in the socially
+and educationally backward Malabar region of Kerala
+state. CEV is located at Kurunthodi in Maniyur village 13 km away from Vadakara
+town along the Palayad – Maniyur road. CEV is situated on
+the hilltop of “Kakoramala”, with lush green and beautiful surroundings stretching
+over an area of about 27 acres. The nearest railway stat
+ion, Vadakara is 14 Km away from the campus.</p>
+<center><h3>COLLEGE BUS</h1></center>
+For transportation of students and staff , the college has self sufficient
+transportation facility managed by the college bus committee. Under the
+ownership
+of Principal college has 10 buses to meet the conveyance of staff and students.
+Bus committee is providing bus service to Vadakara,Payyoli,
+ Koyilandi and Perambra having distance of 12Km, 10Km, 35Km, and 25 km 
+respectively from college premises</p>
+<center>
+<img src="C:\Users\mparu\OneDrive\Pictures\bus.jpg">
+</center>
+</body>
+</html> 
+ 
+#external.html
+<html>
+<head> 
+<link type="text/css" rel="stylesheet" href="external.css">
+<title>collegeof enginering vadakara</title>
+</head>
+<body>
+<h1><u><b>MCA Department</u></b></h1>
+<p >The Department of Master of Computer Applications was established in 2010.
+The department trains future educators, researchers and software professionals
+through a curriculum designed by CUSAT. The department molds young
+outstanding students who are academically strong in both theory and practices. It
+organizes supplementary programs, which include Technical seminars & Mock
+Interviews to prepare the student for a career in the computing field or for
+graduate study. Special orientation is provided to the staff periodically for
+updating their strength in latest technological changes.
+<h1><b><i>infrastructure fecilities</i></b></h1>
+<ol>
+<li>classrooms</li>
+<li>laborataries</li>
+<li>labs</li>
+</ol>
+<br>
+<br>
+<br>
+<center>
+<img src="C:\Users\mparu\OneDrive\Pictures\cev.jpg" align="center"
+height="300" width="500">
+</center>
+</body> 
+</html>
+external.css
+body{
+ background-color:lightgreen;
+ }
+h1{
+ color:red;
+ text-align:center;
+ font-size:30px;
+}
+p{
+ color:blue;
+ font-sixe:30px;
+ margin-left:20px;
+ margin-right:20px;
+} 

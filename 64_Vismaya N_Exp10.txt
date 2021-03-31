@@ -1,0 +1,22 @@
+<html>
+<head>
+<link rel="stylesheet" href="switchcolor.css">
+
+</head>
+<body>
+<center>
+<h2>CHANGING BACKGROUND COLOUR</h2>
+<button>CLICK</button>
+<script>
+var color=["green","pink","red","yellow"]
+var i=0;
+document.querySelector("button").addEventListener("click",
+function()
+{
+i=i<color.length ? ++i : 0;
+document.querySelector("body").style.background = color[i]
+})
+</script>
+</center>
+</body>
+</html>
