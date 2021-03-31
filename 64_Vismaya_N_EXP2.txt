@@ -1,0 +1,27 @@
+
+Details.html
+<html>
+<head>
+<title>STUDENT DETAILS</title>
+</head>
+<body>
+<h1 align="center">STUDENT DETAILS</h1>
+<table border="2" widtd="3" align="center">
+<tr><th>name</th>
+<th>roll no</th>
+<th>Admission number</th>
+<th>marks</th></tr>
+<tr><td>Saritda</td>
+<td>22</td>
+<td>20m067</td>
+<td>98</td></tr>
+<tr><td>Akshay</td>
+<td>06</td>
+<td>20m045</td>
+<td>50</td></tr>
+<tr><td>haritda</td>
+<td>28</td>
+<td>20m0m23</td>
+<td>67</td></tr></table><br><br>
+<a href="idukki.html">click here</a>
+</body></html>
